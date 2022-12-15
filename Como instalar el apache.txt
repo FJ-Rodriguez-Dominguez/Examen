@@ -1,0 +1,12 @@
+C:\WINDOWS\system32>httpd -k install
+Installing the 'Apache2.4' service
+The 'Apache2.4' service is successfully installed.
+Testing httpd.conf....
+Errors reported here must be corrected before the service can be started.
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using fe80::818d:87da:56de:ccec. Set the 'ServerName' directive globally to suppress this message
+
+C:\WINDOWS\system32>httpd -k start
+C:\WINDOWS\system32>httpd -k stop
+C:\WINDOWS\system32>sc delete Apache2.4 (en caso de querer desinstalarlo)
+
+http://localhost:80 Para acceder a página que hemos creado con apache

@@ -1,0 +1,9 @@
+Dominio TrabajosPHP //trabajosphp.great-site.net
+Usuario epiz_32925548!
+Contraseña la de siempre //Co5Dpu35zei
+
+BD:
+Nombre epiz_32925548_Teachers	
+Usuario epiz_32925548
+Contaseña Co5Dpu35zei
+Host sql111.epizy.com

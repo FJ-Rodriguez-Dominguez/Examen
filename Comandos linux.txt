@@ -1,0 +1,29 @@
+touch crear fichero
+		
+ls mostrar todo / ls -l muestra datos más completos de los ficheros / ls/_ muestra carpetas ocultas				
+
+clear limpiar la pantalla				
+
+pico para escribir en el fichero
+
+vim para escribir en el fichero(es para más avanzados)	
+
+cat para que aparezca lo que hay en un fichero
+
+mkdir para crear carpeta
+
+pwd aparece en que ruta te encuentras
+
+cd para entrar o cambiar de ruta
+
+cd .. para ir a la carpeta anterior
+
+cp para copiar de un sitio a otro
+
+mv para mover
+
+rm para borrar
+
+cd $HOME / cd ~ para volver a la carpeta principal
+
+cd / para ir a la raíz
